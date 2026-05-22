@@ -1,2 +1,1 @@
-# Projeto_Newton
-Projeto da aula de desenvolvimento web do curso da Newton Paiva de ADS
+Sistema de Chamados Premium - PHP + PostgreSQL + AJAX + Bootstrap
